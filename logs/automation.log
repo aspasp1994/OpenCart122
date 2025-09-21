@@ -1,0 +1,14 @@
+2025-09-21 11:35:41 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register link
+2025-09-21 11:35:41 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+2025-09-21 11:35:43 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message
+2025-09-21 11:35:43 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest *******
+2025-09-21 11:35:48 [main] INFO  testCases.TC002_LoginTest - ***** starting TC002_LoginTest *****
+2025-09-21 11:35:50 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC002_LoginTest *****
+2025-09-21 11:47:58 [main] INFO  testCases.TC001_AccountRegistrationTest - ********** Starting TC001_AccountRegistrationTest ********
+2025-09-21 11:47:59 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on MyAccount link
+2025-09-21 11:47:59 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register link
+2025-09-21 11:47:59 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+2025-09-21 11:48:01 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message
+2025-09-21 11:48:01 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest *******
+2025-09-21 11:48:04 [main] INFO  testCases.TC002_LoginTest - ***** starting TC002_LoginTest *****
+2025-09-21 11:48:06 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC002_LoginTest *****

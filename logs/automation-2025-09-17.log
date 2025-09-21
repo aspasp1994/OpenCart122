@@ -1,0 +1,45 @@
+2025-08-24 20:01:12 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-08-24 20:01:12 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-08-24 20:01:12 [main] INFO  testCases.TC003_LoginTestDataDriven - ****** Starting TC003_LoginTestDataDriven ****** 
+2025-08-24 20:01:20 [main] INFO  testCases.TC003_LoginTestDataDriven - ****** Finishing TC003_LoginTestDataDriven ****** 
+2025-08-24 20:01:20 [main] INFO  testCases.TC003_LoginTestDataDriven - ****** Starting TC003_LoginTestDataDriven ****** 
+2025-08-24 20:01:26 [main] INFO  testCases.TC003_LoginTestDataDriven - ****** Finishing TC003_LoginTestDataDriven ****** 
+2025-08-24 20:01:32 [main] INFO  testCases.TC003_LoginTestDataDriven - ****** Finishing TC003_LoginTestDataDriven ****** 
+2025-08-24 21:51:24 [main] INFO  testCases.TC001_AccountRegistrationTest - ********** Starting TC001_AccountRegistrationTest ********
+2025-08-24 21:51:25 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on MyAccount link
+2025-08-24 21:51:26 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register link
+2025-08-24 21:51:26 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+2025-08-24 21:51:28 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message
+2025-08-24 21:51:31 [main] INFO  testCases.TC002_LoginTest - ***** starting TC002_LoginTest *****
+2025-08-24 21:51:33 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC002_LoginTest *****
+2025-09-17 11:03:13 [main] INFO  testCases.TC001_AccountRegistrationTest - ********** Starting TC001_AccountRegistrationTest ********
+2025-09-17 11:03:13 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on MyAccount link
+2025-09-17 11:03:14 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register link
+2025-09-17 11:03:14 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+2025-09-17 11:03:16 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message
+2025-09-17 11:03:19 [main] INFO  testCases.TC002_LoginTest - ***** starting TC002_LoginTest *****
+2025-09-17 11:03:21 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC002_LoginTest *****
+2025-09-17 11:08:24 [main] INFO  testCases.TC001_AccountRegistrationTest - ********** Starting TC001_AccountRegistrationTest ********
+2025-09-17 11:08:25 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on MyAccount link
+2025-09-17 11:08:25 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register link
+2025-09-17 11:08:25 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+2025-09-17 11:08:27 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message
+2025-09-17 11:08:31 [main] INFO  testCases.TC002_LoginTest - ***** starting TC002_LoginTest *****
+2025-09-17 11:08:34 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC002_LoginTest *****
+2025-09-17 11:10:02 [main] INFO  testCases.TC001_AccountRegistrationTest - ********** Starting TC001_AccountRegistrationTest ********
+2025-09-17 11:10:02 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on MyAccount link
+2025-09-17 11:10:03 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register link
+2025-09-17 11:10:03 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+2025-09-17 11:10:05 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message
+2025-09-17 11:10:09 [main] INFO  testCases.TC002_LoginTest - ***** starting TC002_LoginTest *****
+2025-09-17 11:10:11 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC002_LoginTest *****
+2025-09-17 11:11:19 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ********** Starting TC001_AccountRegistrationTest ********
+2025-09-17 11:11:19 [TestNG-tests-3] ERROR testCases.TC001_AccountRegistrationTest - Test Failed..
+2025-09-17 11:11:19 [TestNG-tests-3] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs..
+2025-09-17 11:11:25 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ********** Starting TC001_AccountRegistrationTest ********
+2025-09-17 11:11:25 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ********** Starting TC001_AccountRegistrationTest ********
+2025-09-17 11:11:25 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked on MyAccount link
+2025-09-17 11:11:25 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - clicked on MyAccount link
+2025-09-17 11:11:36 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest - Test Failed..
+2025-09-17 11:11:36 [TestNG-tests-1] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs..
+2025-09-17 11:11:46 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test Failed..
